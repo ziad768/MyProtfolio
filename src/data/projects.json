@@ -1,0 +1,58 @@
+[
+  {
+    "title": "SEF FUTURE",
+    "imageSrc": "projects/screencapture-sef-academy-vercel-app-articles-business-2024-03-03-05_01_04.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5" , "CSS3", "Bootstrap", "JS","React","Vite","Rudex Toolkit","Formik", "Router"],
+    "demo": "https://sef-academy.vercel.app/",
+    "source": "https://github.com/ziad768/SEF-Academy"
+  },
+  {
+"title": "Tax Hub",
+    "imageSrc": "projects/screencapture-hax-hub-vercel-app-2024-03-03-05_02_08.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5" , "CSS3", "Bootstrap", "JS","React","Vite","Rudex Toolkit","Formik", "Router"],
+    "demo": "https://hax-hub.vercel.app/",
+    "source": "https://github.com/ziad768/Hax-Hub"
+  },
+  {
+"title": "E-commerce Hocks",
+    "imageSrc": "projects/screencapture-hocks-pro-vercel-app-product-2024-03-03-05_02_01.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5" , "CSS3", "Bootstrap", "JS","React","Hocks React"],
+    "demo": "https://hocks-pro.vercel.app/",
+    "source": "https://github.com/ziad768/Hocks-Pro"
+  },
+  {
+"title": "Quiz Website",
+    "imageSrc": "projects/screencapture-ziad768-github-io-quiz-web-index-html-2024-03-03-05_02_56.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5" , "CSS3", "Bootstrap", "JS"],
+    "demo": "https://ziad768.github.io/quiz-web/",
+    "source": "https://github.com/ziad768/quiz-web"
+  },
+  {
+"title": "Mall Market",
+    "imageSrc": "projects/screencapture-ziad768-github-io-AL-Tayer-index-html-2024-03-03-05_05_45.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5" , "CSS3", "Bootstrap", "JS"],
+    "demo": "https://ziad768.github.io/AL-Tayer/index.html",
+    "source": "https://github.com/ziad768/AL-Tayer"
+  },
+  {
+"title": "Shopping Bag",
+    "imageSrc": "projects/screencapture-ziad768-github-io-web-5-page-sell-clothes-clothes-html-2024-03-03-05_05_28.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5" , "CSS3", "Bootstrap", "JS"],
+    "demo": "https://ziad768.github.io/web-5/page/sell-clothes/clothes.html",
+    "source": "https://github.com/ziad768/web-5/tree/master/page/sell-clothes"
+  },
+  {
+"title": "Car Market",
+    "imageSrc": "projects/screencapture-ziad768-github-io-web-3-bootstrap-2024-03-03-05_04_18.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5" , "CSS3", "Bootstrap", "JS"],
+    "demo": "https://ziad768.github.io/web-3-bootstrap/",
+    "source": "https://github.com/ziad768/web-3-bootstrap"
+  }
+]

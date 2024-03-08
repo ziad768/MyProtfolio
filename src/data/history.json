@@ -1,0 +1,26 @@
+[
+  {
+    "role": "TRAINING Team Leader",
+    "organisation": "SEF ACADEMY",
+    "startDate": "Sep 2023",
+    "endDate": "Dec 2023",
+    "experiences": ["Team Leader on Two Major Projects", "Reviewing Team Members' Tasks" ,"Solving Programming Issues for the Team"],
+    "links": [{
+      "title": "Website 1",
+      "link":"https://sef-academy.vercel.app/"
+    },{
+      "title": "Website 2",
+      "link":"https://hax-hub.vercel.app/"
+    }],
+    "imageSrc": "history/sef.jpg"
+  },
+  {
+    "role": "TRAINING FrontEnd",
+    "organisation": "SEF ACADEMY",
+    "startDate": "Jun 2023 ",
+    "endDate": "Aug 2023",
+    "experiences": ["Chat Page", "Admin panel"],
+    "links": [],
+    "imageSrc": "history/sef.jpg"
+  }
+]
