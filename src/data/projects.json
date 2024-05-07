@@ -4,7 +4,7 @@
     "imageSrc": "projects/IslamWeb.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML5" , "CSS3", "Bootstrap","Tailwind CSS", "JS", "TS","React","Vite","NextUI", "Router"],
-    "demo": "https://islam-it63d0yqx-ziad768s-projects.vercel.app/",
+    "demo": "https://islam-web-silk.vercel.app/",
     "source": "https://github.com/ziad768/islam-web"
   },
   {
