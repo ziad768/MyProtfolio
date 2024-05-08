@@ -13,8 +13,8 @@ export const Hero = () => {
         </p>
         <a href="mailto:ziadhamdi7zezo@gmail.com" className={styles.contactBtn}>
           Contact Me
-        </a><a href="https://drive.google.com/file/d/1zLTrkV_vgF9XJqMWN_wdTca_MUBGOnDn/view?usp=drivesdk" download="ZiadHamdiCv.pdf" className={styles.contactBtn} style={{marginTop:"15px"}}>
-          Download CV
+        </a><a href="https://drive.google.com/file/d/1zLTrkV_vgF9XJqMWN_wdTca_MUBGOnDn/view?usp=drivesdk"  className={styles.contactBtn} style={{marginTop:"15px"}}>
+          Go to CV
         </a>
       </div>
       <img
