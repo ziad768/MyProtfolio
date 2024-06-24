@@ -10,7 +10,7 @@
     {
 "title": "Todo list",
     "imageSrc": "projects/IMG_٢٠٢٤٠٦٢٤_١٨٢٣٥٠.jpg",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "A web application that helps users organize and manage their daily tasks. This site provides a simple and efficient interface that allows adding tasks, updating them, deleting them, and marking tasks as completed. The site is built using Next.js for both client and server sides, and the data is stored in a MongoDB database.",
     "skills": ["HTML5" , "CSS3", "Bootstrap", "Tailwind CSS", "JS", "TS","React","Nextjs" , "Formik"],
     "demo": "https://todo-list-next-js-five.vercel.app/",
     "source": "https://github.com/ziad768TodoList-NextJs"
