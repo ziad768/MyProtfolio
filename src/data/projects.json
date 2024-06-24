@@ -9,11 +9,11 @@
   },
     {
 "title": "Todo list",
-    "imageSrc": "projects/screencapture-hax-hub-vercel-app-2024-03-03-05_02_08.png",
+    "imageSrc": "projects/IMG_٢٠٢٤٠٦٢٤_١٨٢٣٥٠.jpg",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML5" , "CSS3", "Bootstrap", "Tailwind CSS", "JS", "TS","React","Nextjs" , "Formik"],
-    "demo": "https://hax-hub.vercel.app/",
-    "source": "https://github.com/ziad768/Hax-Hub"
+    "demo": "https://todo-list-next-js-five.vercel.app/",
+    "source": "https://github.com/ziad768TodoList-NextJs"
   },
   {
     "title": "Islam Web",
