@@ -1,4 +1,20 @@
 [
+    {
+"title": "Tax Hub",
+    "imageSrc": "projects/screencapture-hax-hub-vercel-app-2024-03-03-05_02_08.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5" , "CSS3", "Bootstrap", "JS","React","Vite","Rudex Toolkit","Formik", "Router"],
+    "demo": "https://hax-hub.vercel.app/",
+    "source": "https://github.com/ziad768/Hax-Hub"
+  },
+    {
+"title": "Todo list",
+    "imageSrc": "projects/screencapture-hax-hub-vercel-app-2024-03-03-05_02_08.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5" , "CSS3", "Bootstrap", "Tailwind CSS", "JS", "TS","React","Nextjs" , "Formik"],
+    "demo": "https://hax-hub.vercel.app/",
+    "source": "https://github.com/ziad768/Hax-Hub"
+  },
   {
     "title": "Islam Web",
     "imageSrc": "projects/IslamWeb.png",
@@ -15,14 +31,7 @@
     "demo": "https://sef-academy.vercel.app/",
     "source": "https://github.com/ziad768/SEF-Academy"
   },
-  {
-"title": "Tax Hub",
-    "imageSrc": "projects/screencapture-hax-hub-vercel-app-2024-03-03-05_02_08.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML5" , "CSS3", "Bootstrap", "JS","React","Vite","Rudex Toolkit","Formik", "Router"],
-    "demo": "https://hax-hub.vercel.app/",
-    "source": "https://github.com/ziad768/Hax-Hub"
-  },
+
   {
 "title": "E-commerce Hocks",
     "imageSrc": "projects/screencapture-hocks-pro-vercel-app-product-2024-03-03-05_02_01.png",
