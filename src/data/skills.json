@@ -8,8 +8,12 @@
     "imageSrc": "skills/css.png"
   },
   {
-    "title": "React",
+    "title": "ReactJs",
     "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "NextJs",
+    "imageSrc": "about/next.svg"
   },
   {
     "title": "JavaScript",
@@ -24,7 +28,12 @@
     "imageSrc": "skills/bootstrap.png"
   },
   {
+    "title": "tailwind",
+    "imageSrc": "skills/tailwind.svg"
+  },
+  {
     "title": "Responsive Web Design",
     "imageSrc": "skills/responsive-design.png"
   }
 ]
+
