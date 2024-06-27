@@ -41,7 +41,7 @@
   },
   {
     "title": "Quote Generator",
-    "imageSrc": "projects/Screenshot 2024-06-28 020012.png",
+    "imageSrc": "projects/Screenshot 2024-06-28 020821.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["HTML5" , "CSS3", "Bootstrap", "JS","React"],
     "demo": "https://quote-generator-five-snowy.vercel.app",
