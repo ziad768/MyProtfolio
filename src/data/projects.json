@@ -31,6 +31,30 @@
     "demo": "https://sef-academy.vercel.app/",
     "source": "https://github.com/ziad768/SEF-Academy"
   },
+  {
+    "title": "MarkDown Previewer",
+    "imageSrc": "projects/screencapture-sef-academy-vercel-app-articles-business-2024-03-03-05_01_04.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5" , "CSS3",  "JS","React"],
+    "demo": "https://markdown-previewer-nu-peach.vercel.app",
+    "source": "https://github.com/ziad768/markdown-previewer"
+  },
+  {
+    "title": "Quote Generator",
+    "imageSrc": "projects/screencapture-sef-academy-vercel-app-articles-business-2024-03-03-05_01_04.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5" , "CSS3", "Bootstrap", "JS","React"],
+    "demo": "https://quote-generator-five-snowy.vercel.app",
+    "source": "https://github.com/ziad768/quote-generator"
+  },
+  {
+    "title": "Products list",
+    "imageSrc": "projects/screencapture-sef-academy-vercel-app-articles-business-2024-03-03-05_01_04.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML5" , "CSS3", "Bootstrap", "JS","React"],
+    "demo": "https://products-list-amber.vercel.app",
+    "source": "https://github.com/ziad768/products-list"
+  },
 
   {
 "title": "E-commerce Hocks",
