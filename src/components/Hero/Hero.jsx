@@ -13,7 +13,7 @@ export const Hero = () => {
         </p>
         <a href="mailto:ziadhamdi7zezo@gmail.com" className={styles.contactBtn}>
           Contact Me
-        </a><a href="https://drive.google.com/file/d/1zLTrkV_vgF9XJqMWN_wdTca_MUBGOnDn/view?usp=drivesdk"  className={styles.contactBtn} style={{marginTop:"15px"}}>
+        </a><a href="https://drive.google.com/file/d/1tkCBZ2coD_1-I_UHVd-1ePMFldRn3cMW/view?usp=drivesdk"  className={styles.contactBtn} style={{marginTop:"15px"}}>
           Go to CV
         </a>
       </div>
